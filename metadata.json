@@ -1,0 +1,5 @@
+{
+  "name": "Loyalty Pro Preview",
+  "description": "A React-based preview of the Loyalty Pro dashboard, showcasing customer management, transaction processing, and advanced analytics with a sleek, modern interface.",
+  "requestFramePermissions": []
+}
